@@ -1,0 +1,40 @@
+.verd {
+	font-family: verdana;
+}
+
+table { 
+	empty-cells: show;
+	border-collapse: collapse;
+	margin-left: 5%;
+}
+
+td {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.bord {
+	border: 1px solid; 
+}
+.subnum {
+	font-size: 12px;
+	text-align: center;
+}
+
+.button-small {
+	font-size: 40%;
+}
+
+#hint1 {
+	display: none;
+}
+
+#hint2 {
+	display: none;
+}
+
+#hint3 {
+	display: none;
+}
